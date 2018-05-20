@@ -1,0 +1,66 @@
+body{
+    width:980px;
+    background-image: url(http://paper-backgrounds.com/textureimages/2013/02/brown-concrete-wall-background-texture.jpg)
+}
+
+h1 {
+    background-color: orange;
+    border: groove gray 10px;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+#instructions {
+    color: green;
+    background-color:burlywood;
+    border: groove gray 10px;
+    border-radius: 25px;
+    margin: 10px;
+}
+
+#yeah {
+    background-color: lightgreen;
+    border: groove gray 10px;
+    border-radius: 25px;
+    margin: 10px;
+    padding: 90px;
+}
+
+#yeahyeah {
+    background-color: aqua;
+    border: groove gray 10px;
+    border-radius: 25px;
+    margin: 10px;
+    padding: 95px;
+}
+
+#totalscore {
+    background-color: lightgreen;
+    border: groove 10px gray;
+    margin:10px;
+}
+
+#totalscore {
+    background-color: lightgreen;
+    border: groove 10px gray;
+    margin:10px;
+    padding: 89px;
+}
+
+button {
+    border: groove grey 7px;
+}
+
+button:hover{
+    border-color:red;
+    background-color: gold;
+}
+
+button:focus{
+    width: 200px;
+    height: 200px;
+    transition: ease-in-out, width .35s;
+}
+
+
+
