@@ -27,11 +27,20 @@ h1 {
 }
 
 #yeahyeah {
+    text-align: left;
     background-color: aqua;
     border: groove gray 10px;
     border-radius: 25px;
     margin: 10px;
-    padding: 95px;
+    padding: 98px;
+}
+
+#wins {
+    background-color: lightgreen;
+}
+
+#losses {
+    background-color: lightgreen;
 }
 
 #totalscore {
@@ -46,6 +55,8 @@ h1 {
     margin:10px;
     padding: 89px;
 }
+
+
 
 button {
     border: groove grey 7px;
